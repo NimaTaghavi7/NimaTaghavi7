@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Hi, I'm Nima
 
-<!--
-**NimaTaghavi7/NimaTaghavi7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Computer Engineering Student & Front-End Developer
 
-Here are some ideas to get you started:
+I'm a Computer Engineering student passionate about programming and building modern web applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🚀 Currently learning and building with **React, Next.js & TypeScript**
+* 🎨 Interested in **UI/UX and modern web design**
+* 🎮 Passionate about **Gaming & Technology**
+* 📚 Always learning something new
+* 🔨 Currently working on personal web projects
+
+### 🛠️ Tech Stack
+
+`HTML` `CSS` `JavaScript` `TypeScript` `React` `Next.js` `Tailwind CSS` `Git` `GitHub`
+
+
+### 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ilawyovi\&show_icons=true\&theme=tokyonight)
+
+### 📫 Connect With Me
+
+* GitHub: [@ilawyovi](https://github.com/ilawyovi)
+
+---
+
+⭐ Thanks for visiting my profile!
