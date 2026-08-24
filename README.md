@@ -22,7 +22,7 @@ I'm a Computer Engineering student passionate about programming and building mod
 ### 📫 Connect With Me
 
 * GitHub: [@ilawyovi](https://github.com/ilawyovi)
-
+* Telegram: [@ilawyovi](https://github.com/ilawyovi)
 ---
 
 ⭐ Thanks for visiting my profile!
