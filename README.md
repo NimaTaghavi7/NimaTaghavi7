@@ -21,9 +21,9 @@ I'm a Computer Engineering student passionate about programming and building mod
 
 ### 📫 Connect With Me
 
-* GitHub: [@ilawyovi](https://github.com/NimaTaghavi7)
+* GitHub: [@NimaTaghavi7](https://github.com/NimaTaghavi7)
 * Telegram: [@ilawyovi](https://t.me/ilawyovi)
-* LinkedIn: [@ilawyovi](https://t.me/ilawyovi)
+* LinkedIn: [@NimaTaghavi](https://t.me/ilawyovi)
 ---
 
 ⭐ Thanks for visiting my profile!
