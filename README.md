@@ -12,12 +12,15 @@ I'm a Computer Engineering student passionate about programming and building mod
 
 ### 🛠️ Tech Stack
 
+Frontend:
 `HTML` `CSS` `JavaScript` `TypeScript` `React` `Next.js` `Tailwind CSS` `Git` `GitHub`
 
+CMS & E-commerce:
+`WordPress` `WooCommerce`
 
 ### 📊 GitHub Stats
 
-![Nima's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=NimaTaghavi7&show_icons=true&theme=tokyonight)
+![Nima's GitHub Stats]()
 
 ### 📫 Connect With Me
 
