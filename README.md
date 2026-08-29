@@ -20,7 +20,7 @@ CMS & E-commerce:
 
 ### 📊 GitHub Stats
 
-![Nima's GitHub Stats]()
+![Nima's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NimaTaghavi7&show_icons=true&theme=tokyonight)
 
 ### 📫 Connect With Me
 
