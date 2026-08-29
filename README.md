@@ -16,7 +16,7 @@ Frontend:
 `HTML` `CSS` `JavaScript` `TypeScript` `React` `Next.js` `Tailwind CSS` `Git` `GitHub`
 
 CMS & E-commerce:
-`WordPress` `WooCommerce`
+`WordPress` `WooCommerce` `Elementor`
 
 ### 📊 GitHub Stats
 
