@@ -17,13 +17,13 @@ I'm a Computer Engineering student passionate about programming and building mod
 
 ### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NimaTaghavi7\&show_icons=true\&theme=tokyonight)
+![Nima's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=NimaTaghavi7&show_icons=true&theme=tokyonight)
 
 ### 📫 Connect With Me
 
 * GitHub: [@NimaTaghavi7](https://github.com/NimaTaghavi7)
 * Telegram: [@ilawyovi](https://t.me/ilawyovi)
-* LinkedIn: [@NimaTaghavi](https://t.me/ilawyovi)
+* LinkedIn: [@NimaTaghavi](https://www.linkedin.com/in/NimaTaghavi/)
 ---
 
 ⭐ Thanks for visiting my profile!
