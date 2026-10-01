@@ -12,7 +12,7 @@ I’m a Front-End Developer focused on building **modern, responsive, and user-f
 * HTML · CSS · JavaScript · TypeScript · React · Next.js · Tailwind CSS · Shadcn/ui
 
 ### Backend
-* Node.js · Express.js 
+* Node.js 
 
 ### DevOps
 * Git · GitHub · Vercel
